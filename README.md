@@ -1,6 +1,6 @@
-# 中文简介
+# 中文介绍
 
-英文简介在中文简介后方。
+英文介绍在中文简介介绍。
 
 The English introduction is at the end of the Chinese introduction.
 
