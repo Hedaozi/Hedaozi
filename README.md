@@ -6,7 +6,7 @@ Hobbies: Data Visualization, Office Automation
 
 Language: Python, R, C#, MySQL, C++
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedaozi&layout=compact&langs_count=3">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedaozi&layout=compact">
 
 ## Education
 
