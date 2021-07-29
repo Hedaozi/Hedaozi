@@ -14,5 +14,3 @@ Language: Python, R, C#, MySQL, C++
 
 2017~2021, Bachelor, Major in Sociology, School of Sociology and Population Studies, Renmin University of China.
 
-## Github 
-
