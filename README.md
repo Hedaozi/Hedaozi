@@ -4,7 +4,6 @@ Research Interest: Data Science and Social Research, Digital Inequality
 
 Hobbies: Data Visualization, Office Automation
 
-Language: Python, R, C#, MySQL, C++
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedaozi&layout=compact">
 
