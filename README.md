@@ -5,7 +5,7 @@ Research Interest: Data Science and Social Research, Digital Inequality
 Hobbies: Data Visualization, Office Automation
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedaozi&layout=compact&langs_count=4">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedaozi&layout=compact&card_width=300">
 
 ## Education
 
