@@ -14,6 +14,6 @@ Hobbies: Data Visualization, Office Automation
 
 ## Navigator
 
-[Github Pages](https://hedaozi.github.io/) Technological works, including articles, documentations and notebooks.
+[Github Pages](https://hedaozi.github.io/) Technological works.
 
 [Personal Website](https://hedaozi.com/) All technological, academic and literary works.
