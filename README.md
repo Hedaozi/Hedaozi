@@ -1,8 +1,6 @@
 ## Interests
 
-Research Interest: Data Science and Social Research, Digital Inequality
-
-Hobbies: Data Visualization, Office Automation
+Research Interest: Computational Sociology
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedaozi&layout=compact&langs_count=3">
 
