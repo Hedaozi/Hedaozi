@@ -2,7 +2,7 @@
 
 Resume ([Chinese](https://hedaozi.com/resume/) | [English](https://hedaozi.com/resume-en/))
 
-Personal Website ([hedaozi.com](https://hedaozi.com/)) Posts, books, articles. 
+Personal Website ([hedaozi.com](https://hedaozi.com/)) Posts, books, articles & records. 
 
 ## Interests
 
