@@ -6,9 +6,9 @@ Personal Website ([hedaozi.com](https://hedaozi.com/)) Posts, books, articles & 
 
 ## Interests
 
-**Topics: **Social stratification and mobility; Digital inequality; Social change
+**Topics:** Social stratification and mobility; Digital inequality; Social change
 
-**Methods: **Quantitative research methods; Computational social sciences; Quantitative history
+**Methods:** Quantitative research methods; Computational social sciences; Quantitative history
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedaozi&layout=compact&langs_count=3">
 
