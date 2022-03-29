@@ -20,15 +20,15 @@ Personal Website ([hedaozi.com](https://hedaozi.com/)) Posts, books, articles & 
 
 ## Professional Experiences
 
-2021.09-Now, Data analyst (part-time) in Mycos Data Corporation Co., Ltd.
+2021.09-Now, Data analyst (part-time) in *Mycos Data Corporation Co., Ltd*.
 
-2020.12-2021.09, Data analyst (intern) in Mycos Data Corporation Co., Ltd.
+2020.12-2021.09, Data analyst (intern) in *Mycos Data Corporation Co., Ltd*.
 
 ## Research Assistant Experiences
 
-2021.09-Now, in Institute for Empirical Social Science Research, Xi’an Jiaotong University
+2021.09-Now, in Institute for Empirical Social Science Research, *Xi’an Jiaotong University*
 
-2021.05-Now, in Interdisciplinary platform for digital social governance, Renmin University of China
+2021.05-Now, in Interdisciplinary platform for digital social governance, *Renmin University of China*
 
 ## Works
 
