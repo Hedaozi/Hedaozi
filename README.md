@@ -1,8 +1,8 @@
 ## About Me
 
-[Personal Website (hedaozi.com)](https://hedaozi.com/) Posts, books, articles. 
-
 Resume ([Chinese](https://hedaozi.com/resume/) | [English](https://hedaozi.com/resume-en/))
+
+Personal Website ([hedaozi.com](https://hedaozi.com/)) Posts, books, articles. 
 
 ## Interests
 
