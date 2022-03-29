@@ -1,8 +1,8 @@
 ## About Me
 
-[Github Pages](https://hedaozi.github.io/) Technological works.
+[Personal Website (hedaozi.com)](https://hedaozi.com/) Posts, books, articles. 
 
-[Personal Website](https://hedaozi.com/) All technological, academic and literary works.
+Resume ([Chinese](https://hedaozi.com/resume/) | [English](https://hedaozi.com/resume-en/))
 
 ## Interests
 
