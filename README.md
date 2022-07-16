@@ -1,22 +1,18 @@
 ## About Me
 
-Resume ([Chinese](https://hedaozi.com/resume/) | [English](https://hedaozi.com/resume-en/))
+Hi! I am Lingfeng He, a doctoral student of Institute for Empirical Social Science Research, Xi’an Jiatong University. My reaserch interests include social stratification and mobility, digital inequality, social network, social change, quantitative research methods, computational social sciences, and quantitative history.
 
-Personal Website ([hedaozi.com](https://hedaozi.com/)) Posts, books, articles & records. 
+My Resume: [In Chinese & English](https://hedaozi.com/about-me/)
 
-## Interests
-
-**Topics:** Social stratification and mobility; Digital inequality; Social change
-
-**Methods:** Quantitative research methods; Computational social sciences; Quantitative history
+My Website: ([hedaozi.com](https://hedaozi.com/)) Posts, books, articles & records. 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedaozi&layout=compact&langs_count=3">
 
 ## Education
 
-2021~Now, Doctoral Student, Major in Sociology, School of Humanities and Social Science, Xi’an Jiaotong University.
+2021~Now, PhD in Sociology, Institute for Empirical Social Science Research, School of Humanities and Social Science, Xi’an Jiaotong University.
 
-2017~2021, Bachelor, Major in Sociology, School of Sociology and Population Studies, Renmin University of China.
+2017~2021, Bachelor of Law in Sociology, School of Sociology and Population Studies, Renmin University of China.
 
 ## Professional Experiences
 
@@ -32,10 +28,8 @@ Personal Website ([hedaozi.com](https://hedaozi.com/)) Posts, books, articles & 
 
 ## Works
 
-### Journal Articles
+[Journal Article] Bian, Y., & **He, L.** (2022). Social Eating as a Favor Exchange Facilitator: New Survey Evidence from China. *Economic Sociology: Perspectives and Conversation*, 23(3), 17-24.
 
-Zuo, Teng, Yanhua Zheng, **Lingfeng He**, Tao Chen, Bin Zheng, Song Zheng, Jinghang You, Xiaoyan Li, Rong Liu, Junjie Bai, Shuxin Si, Yingying Wang, Shuyi Zhang, Lili Wang and Jianhui Chen. 2021. “Automated Classification of Papillary Renal Cell Carcinoma and Chromophobe Renal Cell Carcinoma Based on a Small Computed Tomography Imaging Dataset Using Deep Learning.” in *Frontiers in Oncology*, Vol. 11.
+[Conference Presentation] Wei, L., **He, L.**, Yang, Z., Zhang, S., & Wang, Y. (2022). International Trade Network Resilience during COVID-19. American Association of Geographers 2022 Annual Meeting.
 
-### Conferences
-
-Wei, Luo, **Lingfeng He**, Zihui Yang, Shirui Zhang and Yong Wang. 2022. “International Trade Network Resilience during Covid-19.” in *American Association of Geographers 2022 Annual Meeting*.
+[Journal Article] Zuo, T., Zheng, Y., **He, L.**, Chen, T., Zheng, B., Zheng, S., You, J., Li, X., Liu, R., Bai, J., Si, S., Wang, Y., Zhang, S., Wang, L., & Chen, J. (2021). Automated Classification of Papillary Renal Cell Carcinoma and Chromophobe Renal Cell Carcinoma Based on a Small Computed Tomography Imaging Dataset Using Deep Learning [Original Research]. *Frontiers in Oncology*, 11. https://doi.org/10.3389/fonc.2021.746750
