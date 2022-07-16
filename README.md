@@ -6,7 +6,7 @@ My Resume: [In Chinese & English](https://hedaozi.com/about-me/)
 
 My Website: ([hedaozi.com](https://hedaozi.com/)) Posts, books, articles & records. 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedaozi&layout=compact&langs_count=3">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedaozi&layout=compact&langs_count=4">
 
 ## Education
 
