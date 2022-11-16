@@ -1,6 +1,6 @@
 ## About Me
 
-Hi! I am Lingfeng He, a doctoral student of Institute for Empirical Social Science Research, Xi’an Jiatong University. My reaserch interests include social stratification and mobility, digital inequality, social network, social change, quantitative research methods, computational social sciences, and quantitative history.
+Hi! I am Lingfeng He, a doctoral student at Institute for Empirical Social Science Research (IESSR), Xi’an Jiaotong University (XJTU). My research interests lie in social networks, social stratification and mobility, digital inequality, social change, quantitative research methods, and computational social sciences. I am now working on a research program on social eating. My most recent publication is *Social Eating as a Favor Exchange Facilitator: New Survey Evidence from China* (Bian & He, 2022). Please contact me via hedaozi_amoy@outlook.com for more information.
 
 My Resume: [In Chinese & English](https://hedaozi.com/about-me/)
 
