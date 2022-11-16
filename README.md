@@ -1,35 +1,9 @@
 ## About Me
 
-Hi! I am Lingfeng He, a doctoral student at Institute for Empirical Social Science Research (IESSR), Xi’an Jiaotong University (XJTU). My research interests lie in social networks, social stratification and mobility, digital inequality, social change, quantitative research methods, and computational social sciences. I am now working on a research program on social eating. My most recent publication is *Social Eating as a Favor Exchange Facilitator: New Survey Evidence from China* (Bian & He, 2022). Please contact me via hedaozi_amoy@outlook.com for more information.
+Hi! I am Lingfeng He, a doctoral student at Institute for Empirical Social Science Research (IESSR), Xi’an Jiaotong University (XJTU). My research interests lie in social networks, social stratification and mobility, digital inequality, social change, quantitative research methods, and computational social sciences. I am now working on a research program on social eating. My most recent publication is *Social Eating as a Favor Exchange Facilitator: New Survey Evidence from China* (Bian & He, 2022). 
 
-My Resume: [In Chinese & English](https://hedaozi.com/about-me/)
+As a member of the academic community, I develop for improving the standardization of research process and reduce the difficulty of reproducibility of research results. Thus, you can see me working on office automation and workflow of data analysis. As a sociological researcher, I have a long-cherished wish to eliminate digital barriers to technology use, and resultingly increase the possibility of upward social mobility. That's why I am committed to writing and translating easy-understand technical books and designing easy-to-use visualized data-analysis programs.
 
-My Website: ([hedaozi.com](https://hedaozi.com/)) Posts, books, articles & records. 
+If you are looking for more information, please see [my resume](https://hedaozi.com/about-me/) or visit my personal website [hedaozi.com](https://hedaozi.com/).
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedaozi&layout=compact&langs_count=4">
-
-## Education
-
-2021~Now, PhD in Sociology, Institute for Empirical Social Science Research, School of Humanities and Social Science, Xi’an Jiaotong University.
-
-2017~2021, Bachelor of Law in Sociology, School of Sociology and Population Studies, Renmin University of China.
-
-## Professional Experiences
-
-2021.09-Now, Data analyst (part-time) in *Mycos Data Corporation Co., Ltd*.
-
-2020.12-2021.09, Data analyst (intern) in *Mycos Data Corporation Co., Ltd*.
-
-## Research Assistant Experiences
-
-2021.09-Now, in Institute for Empirical Social Science Research, *Xi’an Jiaotong University*
-
-2021.05-Now, in Interdisciplinary platform for digital social governance, *Renmin University of China*
-
-## Works
-
-**[Journal Article]** Bian, Y., & **He, L.** (2022). Social Eating as a Favor Exchange Facilitator: New Survey Evidence from China. *Economic Sociology: Perspectives and Conversation*, 23(3), 17-24.
-
-**[Conference Presentation]** Wei, L., **He, L.**, Yang, Z., Zhang, S., & Wang, Y. (2022). International Trade Network Resilience during COVID-19. American Association of Geographers 2022 Annual Meeting.
-
-**[Journal Article]** Zuo, T., Zheng, Y., **He, L.**, Chen, T., Zheng, B., Zheng, S., You, J., Li, X., Liu, R., Bai, J., Si, S., Wang, Y., Zhang, S., Wang, L., & Chen, J. (2021). Automated Classification of Papillary Renal Cell Carcinoma and Chromophobe Renal Cell Carcinoma Based on a Small Computed Tomography Imaging Dataset Using Deep Learning [Original Research]. *Frontiers in Oncology*, 11. https://doi.org/10.3389/fonc.2021.746750
