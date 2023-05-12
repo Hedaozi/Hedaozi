@@ -6,4 +6,4 @@ As a member of the academic community, I am committed to improving the standardi
 
 If you would like to know more, please feel free to refer to [my resume](https://hedaozi.com/about-me/) or visit my personal website, [hedaozi.com](https://hedaozi.com/).
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedaozi&layout=compact&langs_count=4">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedaozi">
