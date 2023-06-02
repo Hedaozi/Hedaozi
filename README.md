@@ -8,7 +8,7 @@ As a member of the academic community, I am committed to improving the standardi
 
 My research interests lie in social networks, social computation, and informatization-driven translational medicine.  I am currently engaged in several research programs. They are on:
 
-- social eating, with the most recent publication entitled [Social Eating as a Favor Exchange Facilitator: New Survey Evidence from China](https://lingfenghe.com/);
+- social eating, with the most recent publication entitled [Social Eating as a Favor Exchange Facilitator: New Survey Evidence from China][(https://lingfenghe.com/)](https://lingfenghe.com/research/f/publication-in-economic-sociology-perspectives-conversations);
 - urban computing, with the most recent conference paper entitled [Spatial Equity of PM2.5 Exposure: A Spatial Analysis Using Mobile Phone Big Data](https://lingfenghe.com/research/f/conference-paper-accepted-by-the-2nd-workshop-of-ayg);
 - international trade resilience, with the most recent publication entitled [Spatio-Temporal Heterogeneity in the International Trade Resilience during COVID-19](https://lingfenghe.com/research/f/publication-in-applied-geography-1);
 - deep-learning based radiomics, with the most recent preprint entitled [Reconsideration Reproducibility of Currently Deep Learning-Based Radiomics: Taking Renal Cell Carcinoma as an Example](https://lingfenghe.com/research/f/preprint-about-deep-learning-radiomics-reproducibility-at-ssrn).
