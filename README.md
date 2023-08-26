@@ -1,6 +1,6 @@
 ## About Me & My Goals
 
-My name is Lingfeng He, and I am currently pursuing my doctorate at the Institute for Empirical Social Science Research (IESSR), Xi’an Jiaotong University (XJTU). I plan to obtain a Ph.D. degree in Sociology in June 2024. I am also looking forward to taking a Ph.D. degree in Quantitative Methods, Statistics, or Data Science.  
+My name is Lingfeng He, and I am currently pursuing my doctorate at the Institute for Empirical Social Science Research (IESSR), Xi’an Jiaotong University (XJTU). I plan to obtain my Ph.D. degree in Sociology in June 2026. 
 
 As a member of the academic community, I am committed to improving the standardization of the research process and reducing the difficulties of reproducibility of research results. Therefore, I devote my efforts to office automation and workflow of data analysis. As a sociological researcher, my long-cherished wish is to eliminate digital barriers to technology use, and consequently, increase the possibility of upward social mobility. For this reason, I am dedicated to writing and translating technical books that are easy to understand and designing visualized data analysis programs that are easy to use.  
 
